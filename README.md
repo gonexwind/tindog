@@ -1,3 +1,3 @@
 # tindog
 
-[Tindog](https://gonexwind.github.com/tindog)
+[Tindog](https://gonexwind.github.io/tindog)
